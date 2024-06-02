@@ -1,4 +1,4 @@
 login_user: root
 login_host: db-dev.akhildev.online
 login_password: ExpenseApp1
-DB_host: db-dev.akhildev.online
+DB_HOST: db-dev.akhildev.online
